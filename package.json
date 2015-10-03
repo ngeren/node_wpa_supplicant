@@ -1,0 +1,16 @@
+{
+  "name": "wpa_supplicant",
+  "version": "0.0.1",
+  "description": "Node.js ...",
+  "main": "lib/wpa_supplicant.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngeren/node_wpa_supplicant.git"
+  },
+  "author": "Noel Geren <ngeren@gmail.com> (https://twitter.com/ngeren)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngeren/node_wpa_supplicant/issues"
+  },
+  "homepage": "https://github.com/ngeren/node_wpa_supplicant"
+}
